@@ -42,7 +42,7 @@ export default [
         details: 'I became the External Vice President of the College of Engineering in Colegio De San Lorenzo.',
     },
     {
-        year: '2019 - 2021',
+        year: '2019',
         title: "Hernando Mapower Services - IT Support Technician Intern",
         duration: '2 Years',
         details: 'I troubleshoot and setup computers as intern at Hernando Mapower Services.',
