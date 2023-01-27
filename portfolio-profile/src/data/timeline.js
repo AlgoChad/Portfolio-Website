@@ -37,9 +37,9 @@ export default [
     },
     {
         year: '2019 - 2021',
-        title: "Vice President - External in College of Engineering (Colegio De San Lorenzo)",
+        title: "Vice President - External in College of Engineering",
         duration: '2 Years',
-        details: 'I became the External vVice President of the College of Engineering in Colegio De San Lorenzo.',
+        details: 'I became the External Vice President of the College of Engineering in Colegio De San Lorenzo.',
     },
     {
         year: '2019 - 2021',

@@ -9,12 +9,12 @@ export default [
         title: 'Portfolio Profile',
         imgUrl:'assets/Portfolio.jpg',
         stack: ['React', 'TailwindCss', 'Vite'],
-        link: 'https://chat-app-five-eosin.vercel.app'
+        link: 'https://portfolio-website-lyart-three.vercel.app/'
     },
     {
         title: 'AI Cataract Detection System',
         imgUrl:'assets/Cataract.jpg',
-        stack: ['Python', 'PyQt5', 'Raspberry Pi', 'OpenCv', 'TensorFlow', 'Keras'],
-        link: 'https://chat-app-five-eosin.vercel.app'
+        stack: ['Python', 'PyQt5', 'Raspberry Pi', 'OpenCV', 'TensorFlow', 'Keras'],
+        link: 'https://www.youtube.com/watch?v=GXS6CtjxRic'
     }
 ]
