@@ -15,4 +15,8 @@ export default [
         title: 'Web and Mobile App',
         stack: [ 'React', 'Express', 'Bootstrap', 'TailwindCSS', 'Node.js', 'MongoDB', 'FireBase', 'MySQL', 'SQLite'],
     },
+    {
+        title: 'Computer Networking',
+        stack: [ 'Ubuntu Linux', 'Linux Mint', 'Kali Linux', 'Windows Server 2016', 'Windows Server 2019', 'VM Ware', 'Virtual Box'],
+    },
 ]
