@@ -3,25 +3,25 @@ export default [
         year: 'Today',
         title: "Quality Assurance and Technical Testing",
         duration: 'Ongoing',
-        details: 'I tutor engineering students from different engineering disciplines. However, I mostly teach computer engineering students as I am more familiar with Computer Engineering since I myself is a Computer Engineering Student.'
+        details: 'I test and evaluate vending machines form Powerhaus Vending machines.'
     },
     {
         year: '2021 - 2022',
         title: "Freelance Programmer",
         duration: '1 Year',
-        details: 'I accept commissions from students of different disciplines (IT, Computer Science, Computer Engineering, and other Engineering Degrees that has computer Programming in their Curriculum) and from different schools & universities.',
+        details: 'I accepted commissions from students of different disciplines (IT, Computer Science, Computer Engineering, and other Engineering Degrees that has computer Programming in their Curriculum) and from different schools & universities.',
     },
     {
         year: '2020 - 2022',
         title: "Engineering Tutor",
         duration: '2 Years',
-        details: 'I tutor engineering students from different engineering disciplines. However, I mostly teach computer engineering students as I am more familiar with Computer Engineering since I myself is a Computer Engineering Student.'
+        details: 'I tutored engineering students from different engineering disciplines. However, I mostly teach computer engineering students as I am more familiar with Computer Engineering since I myself is a Computer Engineering Student.'
     },
     {
         year: '2020 - 2022',
         title: "Programming Tutor",
         duration: '2 Years',
-        details: 'I tutor students from different disciplines (IT, Computer Science, Computer Engineering, and other Engineering Degrees that has computer Programming in their Curriculum).',
+        details: 'I tutored students from different disciplines (IT, Computer Science, Computer Engineering, and other Engineering Degrees that has computer Programming in their Curriculum).',
     },
     {
         year: '2020 - 2021',
