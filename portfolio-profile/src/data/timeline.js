@@ -2,7 +2,7 @@ export default [
     {
         year: '2020 - Today',
         title: "Programming Tutor",
-        duration: '3 Years',
+        duration: 'Ongoing',
         details: 'I tutored students from different disciplines (IT, Computer Science, Computer Engineering, and other Engineering Degrees that has computer Programming in their Curriculum).',
     },
    
@@ -19,7 +19,7 @@ export default [
         details: 'I tutored engineering students from different engineering disciplines. However, I mostly teach computer engineering students as I am more familiar with Computer Engineering since I myself is a Computer Engineering Student.'
     },
     {
-        year: '2022',
+        year: '2022 - 2023',
         title: "Quality Assurance and Technical Testing",
         duration: 'Ongoing',
         details: 'I test and evaluate vending machines form Powerhaus Vending machines.'
