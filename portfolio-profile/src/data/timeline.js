@@ -5,7 +5,6 @@ export default [
         duration: 'Ongoing',
         details: 'I tutored students from different disciplines (IT, Computer Science, Computer Engineering, and other Engineering Degrees that has computer Programming in their Curriculum).',
     },
-   
     {
         year: '2021 - 2022',
         title: "Freelance Programmer",
