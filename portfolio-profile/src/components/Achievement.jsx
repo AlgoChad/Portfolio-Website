@@ -12,6 +12,7 @@ function Achievement(){
                 <AchievementItem
                     year={item.year}
                     achievement={item.achievement}
+                    location={item.location}
                     details={item.details}
                 />
             ))}
