@@ -5,7 +5,7 @@ import Portfolio from './components/Portfolio'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import Skills from './components/Skills'
-import Achievements from './achievements'
+import Achievements from './components/Achievement'
 
 function App() {
 	const [theme, setTheme] = useState(null);

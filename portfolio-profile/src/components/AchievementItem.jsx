@@ -1,6 +1,6 @@
 import React from 'react';
 
-function TimelineItem({year, achievement, details}){
+function AchievementItem({year, achievement, details}){
     return (
         <ol className="flex flex-col md:flex-row relative border-l border-stone-200 dark:border-stone-700">
             <li className="mb-10 ml-4">
@@ -21,4 +21,4 @@ function TimelineItem({year, achievement, details}){
     )
 }
 
-export default TimelineItem;
+export default AchievementItem;

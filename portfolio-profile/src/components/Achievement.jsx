@@ -1,14 +1,14 @@
 import React from 'react';
-import timeline from '../data/timeline';
+import achievement from '../data/achievements';
 import AchievementItem from './AchievementItem';
 import Title from './Title';
 
-function Timeline(){
+function Achievement(){
     return(
         <div className='flex flex-col md:flex-row justify-center my-20'>
             <div className='w-full md:w-7/14'>
-            <Title>Timeline</Title>
-            {timeline.map(item => (
+            <Title>Achievements</Title>
+            {achievement.map(item => (
                 <AchievementItem
                     year={item.year}
                     achievement={item.achievement}
@@ -20,4 +20,4 @@ function Timeline(){
     )
 }
 
-export default Timeline;
+export default Achievement;
