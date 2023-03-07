@@ -77,9 +77,37 @@ function App() {
 			<div className="max-w-5xl w-11/12 mx-auto">
 				<Intro />
         		<Skills/>
+				<hr
+					style={{
+					background: "white",
+					height: "3px",
+					border: "none",
+					}}
+				/>
 				<Portfolio />
+				<hr
+					style={{
+					background: "white",
+					height: "3px",
+					border: "none",
+					}}
+				/>
 				<Timeline />
+				<hr
+					style={{
+					background: "white",
+					height: "3px",
+					border: "none",
+					}}
+				/>
 				<Achievements />
+				<hr
+					style={{
+					background: "white",
+					height: "3px",
+					border: "none",
+					}}
+				/>
 				<Contact />
 				<Footer />
 			</div>
