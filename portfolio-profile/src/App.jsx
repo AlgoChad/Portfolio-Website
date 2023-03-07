@@ -78,8 +78,8 @@ function App() {
 				<Intro />
         		<Skills/>
 				<Portfolio />
-				<Achievements />
 				<Timeline />
+				<Achievements />
 				<Contact />
 				<Footer />
 			</div>
