@@ -77,26 +77,8 @@ function App() {
 			<div className="max-w-5xl w-11/12 mx-auto">
 				<Intro />
         		<Skills/>
-				<View
-				style={{
-					borderBottomColor: 'black',
-					borderBottomWidth: StyleSheet.hairlineWidth,
-				}}
-				/>
 				<Portfolio />
-				<View
-				style={{
-					borderBottomColor: 'black',
-					borderBottomWidth: StyleSheet.hairlineWidth,
-				}}
-				/>
 				<Timeline />
-				<View
-				style={{
-					borderBottomColor: 'black',
-					borderBottomWidth: StyleSheet.hairlineWidth,
-				}}
-				/>
 				<Achievements />
 				<Contact />
 				<Footer />
